@@ -16,7 +16,7 @@ I currently work as a Project Assistant at the [Medical Intelligence and Languag
 <div align="center">
 <table text-align="center">
 <tr>
-<td><a href='http://mile.ee.iisc.ernet.in/mile/index.html'><img src='/public/images/logo_mile.jpg' width='150' border='0'></a></td><td><a href='http://www.iisc.ernet.in/'><img src='/public/images/IISc_logo_transparent.png' width='100' border='0'></a></td>
+<td><a href='http://mile.ee.iisc.ernet.in/mile/index.html'><img src='images/logo_mile.jpg' width='150' border='0'></a></td><td><a href='http://www.iisc.ernet.in/'><img src='/images/IISc_logo_transparent.png' width='100' border='0'></a></td>
 </tr>
 </table>
 </div>
@@ -26,7 +26,7 @@ I currently work as a Project Assistant at the [Medical Intelligence and Languag
 I'm inquisitive about the working of our brain and would like to build applications using artificial inetelligence that mimic the nous. I'm particularly interested **Machine Learning** with appplication in Computer Vision and Game theory (yet to explore). Theoretical aspects of Statistics like probability modelling intrigue me. 
 
 A wordle of my interests.
-<img style="float:right" src="/public/images/riWordle.jpg">
+<img style="float:right" src="/images/riWordle.jpg">
 
 <h3>Other Interest</h3>
 

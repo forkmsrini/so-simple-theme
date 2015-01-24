@@ -1,7 +1,8 @@
 ---
-layout: home
-title: Home
-permalink: /
+layout: page
+title: Latest Posts
+excerpt: "A simple and clean responsive Jekyll theme for words and photos."
+search_omit: true
 ---
 
 Vanakkam!
